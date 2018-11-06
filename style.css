@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background: #eee;
+}
+
+.wrapper{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.flex-container{
+    display:
+}
